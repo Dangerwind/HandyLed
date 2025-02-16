@@ -15,4 +15,5 @@
 
 **Схемотехника:** микроконтроллер STM8L
 
- ![Внешний вид фонариков](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik01.jpg)  ![Фонарики в упаковке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik02.jpg) ![Фонарики на руке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik03.jpg) ![Платы фонариков](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik04.jpg) 
+ ![Фонарики в упаковке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik02.jpg) 
+ ![Фонарики на руке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik03.jpg) 

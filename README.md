@@ -1,4 +1,4 @@
-<div>
+![image](https://github.com/user-attachments/assets/c9e42b6b-8b3a-4d75-89f5-748bd5c70d87)<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> &nbsp
 </div>
 
@@ -15,4 +15,4 @@
 
 **Схемотехника:** микроконтроллер STM8L
 
- ![Внешний вид устройства сигрализатора ионизирующего излучения](https://github.com/Dangerwind/RadiationControl/blob/main/img/RadiationControl.jpg)
+ ![Внешний вид фонариков](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik01.jpg)  ![Фонарики в упаковке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik02.jpg) ![Фонарики на руке](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik03.jpg) ![Платы фонариков](https://github.com/Dangerwind/HandyLed/blob/main/img/fonarik04.jpg) 

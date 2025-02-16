@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c9e42b6b-8b3a-4d75-89f5-748bd5c70d87)<div>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> &nbsp
 </div>
 
